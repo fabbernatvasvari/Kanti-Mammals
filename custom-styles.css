@@ -1,5 +1,4 @@
 body {
-    background-color: #d9d9d9;
     color: #000;
     margin: 0;
 }
@@ -108,7 +107,6 @@ body {
 
 .animal-img {
     width: 100%;
-    height: 260px;
     object-fit: cover;
     display: block;
 }
@@ -120,7 +118,6 @@ body {
     }
 
     .animal-img {
-        height: 220px;
     }
 
     .animal-card .card-text {
